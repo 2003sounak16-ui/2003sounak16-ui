@@ -8,6 +8,7 @@
 <!-- Badges row -->
 [![GitHub followers](https://img.shields.io/github/followers/2003sounak16-ui?style=flat&logo=github&color=181717&labelColor=0d1117)](https://github.com/2003sounak16-ui)
 [![Email](https://img.shields.io/badge/2003sounak16@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:2003sounak16@gmail.com)
+[![Instagram](https://img.shields.io/badge/@sounak__026-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sounak_026)
 [![Profile Views](https://komarev.com/ghpvc/?username=2003sounak16-ui&color=58a6ff&style=flat&label=Profile+Views)](https://github.com/2003sounak16-ui)
 
 </div>
@@ -131,6 +132,7 @@ I build **production-grade web applications** and **AI-powered automation system
 ### 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2003sounak16@gmail.com)
+[![Instagram](https://img.shields.io/badge/@sounak__026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sounak_026)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2003sounak16-ui)
 
 <br/>
