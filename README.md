@@ -71,8 +71,8 @@ I build **production-grade web applications** and **AI-powered automation system
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2003sounak16-ui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2003sounak16-ui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2003sounak16-ui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2003sounak16-ui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@ I build **production-grade web applications** and **AI-powered automation system
 
 <div align="center">
 
-[![SalesFlow AI](https://github-readme-stats.vercel.app/api/pin/?username=2003sounak16-ui&repo=sales-automation&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/2003sounak16-ui/sales-automation)
+[![SalesFlow AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=2003sounak16-ui&repo=sales-automation&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/2003sounak16-ui/sales-automation)
 
 </div>
 
